@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecipePage should match a snapshot 1`] = `
+<div
+  className="recipe-wrapper"
+>
+  <Filter />
+  <TheList />
+</div>
+`;

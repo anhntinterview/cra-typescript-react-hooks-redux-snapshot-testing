@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filter should match a snapshot 1`] = `
+<div
+  className="filter-wrapper"
+>
+  <input
+    onChange={[Function]}
+    placeholder="Please typing your keyword ..."
+    type="text"
+    value=""
+  />
+</div>
+`;
